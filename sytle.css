@@ -1,0 +1,124 @@
+.writing{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+position: relative;
+
+}
+.web{
+    color:  hsl(270, 100%, 50%);
+}
+
+
+.primary{
+    background-color:hsl(270, 100%, 50%) ;
+    width: 130px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    text-decoration: none ;
+    margin-bottom: 10px;
+}
+.seclink{
+    text-align: center;
+    
+}
+
+
+.secondary{
+    border: 1px solid hsl(270, 100%, 50%) ;
+    padding: 10px 10px;
+    border-radius: 20px;
+    text-decoration: none;
+    color:hsl(270, 100%, 50%);
+    
+}
+.button{
+    background-color:hsl(270, 100%, 50%) ;
+    padding: 10px;
+    border-radius: 10px;
+    width: 130px;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+.navbar{
+background-color: hsl(270, 100%, 50%);
+height: auto;    
+border-bottom-left-radius: 20px;
+padding: 5px 10px 15px 20px;
+color: white;
+
+}
+.navpills{
+    padding: 5px 10px; 
+    text-align: right;
+    color: white;
+
+    
+}
+.home{
+    list-style: none;
+    display: inline;
+    color: white;
+}
+.link{
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    background-color:hsl(270, 100%, 50%) ;
+    padding: 10px 10px ;
+    border-radius: 20px;
+    text-align: center;
+}
+.imageheader{
+    text-align: center;
+    color: gray;
+}
+.offwhitesection{
+    background-color: rgb(236, 236, 236);
+    padding: 10px;
+    border-radius: 10px;
+    height: 150px;
+
+}
+.offwhite{
+    text-align: center;
+    
+}
+.footer{
+    background-color: hsl(270, 100%, 50%);
+    padding: 10px 10px ;
+    border-top-right-radius: 20px; 
+    margin-top: 50px;
+    
+}
+.headerinside{
+    color: white;
+    text-align: center;
+
+}
+.ol{
+    text-decoration: none;
+    text-align: center;
+
+}
+.heaaa{
+    
+   text-align: center;
+}
+.whitesection{
+    text-align: center;
+    padding: 30px  ;
+    margin-bottom: 50px;
+}
