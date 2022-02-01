@@ -4,12 +4,12 @@ position: relative;
 
 }
 .web{
-    color:  hsl(270, 100%, 50%);
+    color: #6C63FF;
 }
 
 
 .primary{
-    background-color:hsl(270, 100%, 50%) ;
+    background-color:#6C63FF ;
     width: 130px;
     padding: 10px 10px;
     border-radius: 5px;
@@ -23,15 +23,15 @@ position: relative;
 
 
 .secondary{
-    border: 1px solid hsl(270, 100%, 50%) ;
+    border: 1px solid #6C63FF ;
     padding: 10px 10px;
     border-radius: 20px;
     text-decoration: none;
-    color:hsl(270, 100%, 50%);
+    color:#6C63FF;
     
 }
 .button{
-    background-color:hsl(270, 100%, 50%) ;
+    background-color:#6C63FF ;
     padding: 10px;
     border-radius: 10px;
     width: 130px;
@@ -51,7 +51,7 @@ position: relative;
     justify-content: center;
 }
 .navbar{
-background-color: hsl(270, 100%, 50%);
+background-color: #6C63FF;
 height: auto;    
 border-bottom-left-radius: 20px;
 padding: 5px 10px 15px 20px;
@@ -76,7 +76,7 @@ color: white;
     text-align: center;
     text-decoration: none;
     display: inline;
-    background-color:hsl(270, 100%, 50%) ;
+    background-color:#6C63FF ;
     padding: 10px 10px ;
     border-radius: 20px;
     text-align: center;
@@ -97,7 +97,7 @@ color: white;
     
 }
 .footer{
-    background-color: hsl(270, 100%, 50%);
+    background-color: #6C63FF;
     padding: 10px 10px ;
     border-top-right-radius: 20px; 
     margin-top: 50px;
