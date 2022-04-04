@@ -74,13 +74,13 @@ color: white;
 .link{
     color: white;
     padding: 10px;
+    display: inline;
     text-align: center;
     text-decoration: none;
-    display: inline;
     background-color:#6C63FF ;
     padding: 10px 10px ;
     border-radius: 20px;
-    text-align: center;
+    
 }
 .imageheader{
     text-align: center;
@@ -91,7 +91,9 @@ color: white;
     padding: 10px;
     border-radius: 10px;
     height: auto;
-
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 .offwhite{
     text-align: center;
@@ -127,19 +129,17 @@ a{
     text-decoration: none;
     color: white;
 }
-@media only screen and (max-width:800px) {
-    /* For tablets: */
-    .main {
-      width: 80%;
-      padding: 0;
-    }
-    .right {
-      width: 100%;
-    }
-  }
-  @media only screen and (max-width:500px) {
-    /* For mobile phones: */
-    .menu, .main, .right {
-      width: 100%;
-    }
-  }
+.linka{
+    color: white;
+    padding: 10px;
+ text-decoration: none;
+    background-color:#6C63FF ;
+     padding: 10px 10px ;
+    border-radius: 20px;
+    display:inline;
+    
+}
+.display{
+    display: flex;
+    justify-content: center;
+}
