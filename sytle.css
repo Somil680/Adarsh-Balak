@@ -71,6 +71,23 @@ color: white;
     display: inline;
     color: white;
 }
+.footer{
+    background-color: #6C63FF;
+    padding: 10px 10px ;
+    border-top-right-radius: 20px; 
+    margin-top: 50px;
+    
+}
+.headerinside{
+    color: white;
+    text-align: center;
+
+}
+.ol{
+    text-decoration: none;
+    text-align: center;
+
+}
 .link{
     color: white;
     padding: 10px;
@@ -98,23 +115,6 @@ color: white;
 .offwhite{
     text-align: center;
     
-}
-.footer{
-    background-color: #6C63FF;
-    padding: 10px 10px ;
-    border-top-right-radius: 20px; 
-    margin-top: 50px;
-    
-}
-.headerinside{
-    color: white;
-    text-align: center;
-
-}
-.ol{
-    text-decoration: none;
-    text-align: center;
-
 }
 .heaaa{
     
