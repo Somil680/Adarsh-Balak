@@ -1,92 +1,26 @@
 .writing{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-position: relative;
-
+    position: relative;
 }
 .web{
-    color: #6C63FF;
-}
-
-
-.primary{
-    background-color:#6C63FF ;
-    width: 130px;
-    padding: 10px 10px;
-    border-radius: 5px;
-    text-decoration: none ;
-    margin-bottom: 10px;
-}
-.seclink{
-    text-align: center;
-    padding: 10px 10px;
-    
-}
-
-
-.secondary{
-    border: 1px solid #6C63FF ;
-    padding: 10px 10px;
-    border-radius: 20px;
-    text-decoration: none;
-    color:#6C63FF;
-    
-}
-.button{
-    background-color:#6C63FF ;
-    padding: 10px;
-    border-radius: 10px;
-    width: 130px;
-    text-align: center;
-
-}
-
-
-
-
-
-
-
-
-.image{
-    display: flex;
-    justify-content: center;
+    color:  #00f2fe ;
 }
 .navbar{
-background-color:  #6C63FF;
+ background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
 height: auto;    
 border-bottom-left-radius: 20px;
 padding: 5px 10px 15px 20px;
 color: white;
-
 }
 .navpills{
     padding: 5px 10px; 
     text-align: right;
     color: white;
-
-    
 }
 .home{
     list-style: none;
     display: inline;
     color: white;
-}
-.footer{
-    background-color: #6C63FF;
-    padding: 10px 10px ;
-    border-top-right-radius: 20px; 
-    margin-top: 50px;
-    
-}
-.headerinside{
-    color: white;
-    text-align: center;
-
-}
-.ol{
-    text-decoration: none;
-    text-align: center;
-
 }
 .link{
     color: white;
@@ -94,14 +28,20 @@ color: white;
     display: inline;
     text-align: center;
     text-decoration: none;
-    background-color:#6C63FF ;
+    /* background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%); */
     padding: 10px 10px ;
     border-radius: 20px;
-    
+}
+.bgcolor{
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.image{
+    display: flex;
+    justify-content: center;
 }
 .imageheader{
     text-align: center;
-    color: gray;
+    color: rgb(43, 43, 43);
 }
 .offwhitesection{
     background-color: rgb(236, 236, 236);
@@ -114,16 +54,56 @@ color: white;
 }
 .offwhite{
     text-align: center;
-    
 }
 .heaaa{
-    
-   text-align: center;
+    text-align: center;
 }
 .whitesection{
     text-align: center;
     padding: 30px  ;
     margin-bottom: 50px;
+}
+.seclink{
+    text-align: center;
+    padding: 10px 10px;
+}
+.secondary{
+    border: 1px solid  linear-gradient(to right, #4facfe 0%, #00f2fe 100%) ;
+    padding: 10px 10px;
+    border-radius: 20px;
+    text-decoration: none;
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.footer{
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    padding: 10px 10px ;
+    border-top-right-radius: 20px; 
+    margin-top: 50px;
+}
+.blog-footer{ margin-top: 343px;}
+.headerinside{
+    color: white;
+    text-align: center;
+}
+.ol{
+    text-decoration: none;
+    text-align: center;
+}
+.primary{
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    width: 130px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    text-decoration: none ;
+    margin-bottom: 10px;
+}
+.button{
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    padding: 10px;
+    border-radius: 10px;
+    width: 130px;
+    text-align: center;
+
 }
 a{
     text-decoration: none;
@@ -131,12 +111,12 @@ a{
 }
 .linka{
     color: white;
-    padding: 10px;
- text-decoration: none;
-    background-color:#6C63FF ;
+    text-decoration: none;
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
      padding: 10px 10px ;
     border-radius: 20px;
     display:inline;
+    margin-right: 20px;
     
 }
 .display{
